@@ -6,6 +6,8 @@
 <a href="https://twitter.com/_creuza_" target="_blank"><img align="left" alt="Marina Iris | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <br/>
 
+## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+  
 My name is Marina Íris, i'm a Brazilian BackEnd Developer, i'm currently attending the first period of the Information Systems course. I currently work as a backend intern. My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
 
 ## 📝 Detailed information
