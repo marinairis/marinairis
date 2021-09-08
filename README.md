@@ -1,12 +1,12 @@
-## Heyyo, I'm <a href="https://marina.me" target="_blank">Aakarsh</a>!
+## Heyyo, I'm <a href="https://marina.me" target="_blank">Marina Íirs</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://www.linkedin.com/in/marina-iris-3%C2%BA-1a1921187/" target="_blank"><img align="left" alt="Marina Iris | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/marina.iris/" target="_blank"><img align="left" alt="Marina Iris | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/_creuza_" target="_blank"><img align="left" alt="Marina Iris | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<br/>
 
 My name is Marina Íris, i'm a Brazilian BackEnd Developer, i'm currently attending the first period of the Information Systems course. I currently work as a backend intern. My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
-<br/>
 
 ## 📝 Detailed information
 
