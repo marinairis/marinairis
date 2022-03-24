@@ -13,7 +13,7 @@ My name is Marina Íris, i'm a Brazilian BackEnd Developer, i'm currently attend
 ## 📝 Detailed information
 
 * Name: Marina íris da Silva
-* Age: 21
+* Age: 22
 * Living in: Contagem, Minas Gerais, Brazil.
 * University: Centro Universitario UNA.
 
