@@ -1,7 +1,7 @@
 ## Heyyo, I'm <a href="https://marina.me" target="_blank">Marina Íirs</a>!
 (Use dark theme to find my socials ;)
 
-<a href="https://www.linkedin.com/in/marina-iris-1a1921187/" target="_blank"><img align="left" alt="Marina Iris | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/marina-iris" target="_blank"><img align="left" alt="Marina Iris | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/marina.iris/" target="_blank"><img align="left" alt="Marina Iris | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/_creuza_" target="_blank"><img align="left" alt="Marina Iris | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <br/>
