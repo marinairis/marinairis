@@ -1,4 +1,4 @@
-## Heyyo, I'm <a href="https://marina.me" target="_blank">Marina Íirs</a>!
+## Heyyo, I'm <a href="https://marina.me" target="_blank">Marina Íris 🏳️‍🌈</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://www.linkedin.com/in/marina-iris" target="_blank"><img align="left" alt="Marina Iris | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -8,12 +8,12 @@
 
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
   
-My name is Marina Íris, i'm a Brazilian BackEnd Developer, i'm currently attending the first period of the Information Systems course. I currently work as a backend intern. My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
+My name is Marina Íris, i'm a Brazilian BackEnd Developer, i'm currently attending the seventh period of the Information Systems course. I currently work as a Full Stack Developer. My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
 
 ## 📝 Detailed information
 
 * Name: Marina íris da Silva
-* Age: 22
+* Age: 23
 * Living in: Contagem, Minas Gerais, Brazil.
 * University: Centro Universitario UNA.
 
