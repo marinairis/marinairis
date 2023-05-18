@@ -8,7 +8,7 @@
 
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
   
-My name is Marina Íris, i'm a Brazilian FullStack Developer, i'm currently attending the seventh period of the Information Systems course. I currently work as a Full Stack Developer. My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
+My name is Marina Íris, i'm a Brazilian FullStack Developer, i'm currently attending the seventh period of the Information Systems course. I currently work as a Jr Developer Analyst at [Rede Lojacorr](https://redelojacorr.com.br/). My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
 
 ## 📝 Detailed information
 
@@ -23,9 +23,13 @@ My name is Marina Íris, i'm a Brazilian FullStack Developer, i'm currently atte
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
 ## 🔧 Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PHP Storm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -42,6 +46,7 @@ My name is Marina Íris, i'm a Brazilian FullStack Developer, i'm currently atte
 ## 🌟 GitHub Stats
 
 ![Marina Iris Github Stats](https://github-readme-stats.vercel.app/api?username=marinairis&show_icons=true&theme=omni)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinairis&layout=compact&show_icons=true&theme=omni&langs_count=8)
-
+  
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
