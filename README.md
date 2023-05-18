@@ -8,7 +8,9 @@
 
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
   
-My name is Marina Íris, i'm a Brazilian FullStack Developer, i'm currently attending the seventh period of the Information Systems course. I currently work as a Jr Developer Analyst at [Rede Lojacorr](https://redelojacorr.com.br/). My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
+My name is Marina Íris, i'm a Brazilian FullStack Developer, i'm currently attending the seventh period of the Information Systems course.
+I currently work as a Jr Developer Analyst at [Rede Lojacorr](https://redelojacorr.com.br/).
+My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
 
 ## 📝 Detailed information
 
