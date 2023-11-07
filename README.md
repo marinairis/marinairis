@@ -16,7 +16,7 @@ My hobby is watching movies, listening to basically any type of music, playing v
 ## 📝 Detailed information
 
 * Name: Marina íris da Silva
-* Age: 23
+* Age: 24
 * Living in: Contagem, Minas Gerais, Brazil.
 * University: Centro Universitario UNA.
 
