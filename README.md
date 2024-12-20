@@ -1,8 +1,9 @@
 # Marina Íris
 
-Hi, I'm Marina, a passionate Brazilian FullStack Developer! 🚀
-I specialize in creating efficient, scalable, and user-friendly applications. With a strong background in both front-end and back-end development, I thrive on transforming ideas into innovative digital solutions.
-My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.
+Hi, I'm Marina, a passionate Brazilian FullStack Developer! 🚀   
+I specialize in creating efficient, scalable, and user-friendly applications. With a strong background in both front-end and back-end development, I thrive on transforming ideas into innovative digital solutions.   
+
+My hobby is watching movies, listening to basically any type of music, playing video games, preferably FPS.   
 
 💡 Let's connect and collaborate on exciting projects!
 
